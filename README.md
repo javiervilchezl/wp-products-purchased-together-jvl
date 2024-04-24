@@ -1,6 +1,6 @@
 # Simple Age Verification
 
-[**License MIT**](https://github.com/javiervilchezl/wp-products-purchased-together-jvl/blob/main/LICENSE)
+[**License MIT**](https://github.com/javiervilchezl/wp-products-purchased-together-jvl/blob/main/LICENSE.txt)
 
 ## Description
 
