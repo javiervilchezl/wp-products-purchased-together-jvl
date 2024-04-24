@@ -9,7 +9,7 @@ This Wordpress plugin for WooCommerce shows other products that were purchased a
 ## Install
 
 Download it compressed in zip, in your WordPress plugins panel select upload plugin, then activate it.
-You will have a configuration menu for the plugin in your WordPress dashboard, with the name "WPSE Search Engine".
+You will have a configuration menu for the plugin in your WordPress dashboard, with the name "Purchased Together JVL".
 
 ## Setting
 
