@@ -1,4 +1,4 @@
-# Simple Age Verification
+# WP Products Purchased Together JVL
 
 [**License MIT**](https://github.com/javiervilchezl/wp-products-purchased-together-jvl/blob/master/LICENSE.txt)
 
