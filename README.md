@@ -6,6 +6,9 @@
 
 This Wordpress plugin for WooCommerce shows other products that were purchased along with the current product. If no product is found, it shows related products.
 
+![WP-Products-Purchased-Together-JVL](https://github.com/javiervilchezl/wp-products-purchased-together-jvl/assets/161946280/f5bf657f-d795-47f9-9624-60d32012ede2)
+
+
 ## Install
 
 Download it compressed in zip, in your WordPress plugins panel select upload plugin, then activate it.
